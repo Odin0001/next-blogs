@@ -11,7 +11,7 @@ const FormComment = () => {
   }
 
   const handleSubmit = () => {
-    
+    console.log(comment)
   }
 
   return (
